@@ -4389,7 +4389,7 @@ body {
 .news {
   height: 1035px;
   background-color: white;
-  background-image: url(../../../dist/img/newsBG.png);
+  background-image: url(../img/newsBG.png);
   padding-top: 30px; }
   .news__hr {
     width: 100px;
@@ -4398,7 +4398,7 @@ body {
   .news__title {
     padding-top: 30px;
     color: white;
-    font-family: 'GothamBook';
+    font-family: "GothamBook";
     font-size: 44px;
     font-weight: 500;
     text-transform: uppercase;
@@ -4666,7 +4666,7 @@ body {
 .contact {
   width: 870px;
   height: 500px;
-  background-image: url(../../../dist/img/contactBG.png);
+  background-image: url(./img/contactBG.png);
   padding-top: 60px;
   position: absolute;
   bottom: 300px;
@@ -4680,7 +4680,7 @@ body {
   .contact__title {
     padding-top: 30px;
     color: #2c4058;
-    font-family: 'GothamBook';
+    font-family: "GothamBook";
     font-size: 44px;
     font-weight: 500;
     text-transform: uppercase;
@@ -4697,7 +4697,7 @@ body {
       padding-bottom: 30px; }
       .contact__info__list--item-text {
         color: #2c4058;
-        font-family: 'GothamBook';
+        font-family: "GothamBook";
         font-weight: 300;
         font-size: 18px; }
   .contact__form {
@@ -4720,7 +4720,7 @@ body {
       border-left: none;
       border-right: none;
       border-bottom: 1px solid #d5d9de;
-      font-family: 'GothamBook'; }
+      font-family: "GothamBook"; }
       .contact__form__text::-webkit-input-placeholder {
         color: #d5d9de; }
       .contact__form__text:-moz-placeholder {
@@ -4741,7 +4741,7 @@ body {
       border-left: none;
       border-right: none;
       border-bottom: 1px solid #d5d9de;
-      font-family: 'GothamBook'; }
+      font-family: "GothamBook"; }
       .contact__form__email::-webkit-input-placeholder {
         color: #d5d9de; }
       .contact__form__email:-moz-placeholder {
@@ -4762,7 +4762,7 @@ body {
       padding: 10px 20px;
       background-color: transparent;
       color: #2c4058;
-      font-family: 'GothamBook';
+      font-family: "GothamBook";
       font-size: 14px;
       font-weight: 300;
       border: 1px solid #2c4058;
